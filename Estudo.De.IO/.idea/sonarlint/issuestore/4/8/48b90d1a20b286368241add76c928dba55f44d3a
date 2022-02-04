@@ -1,0 +1,10 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùØì‚ùÿÿÿÿ
+K
+java:S1854	"5Remove this useless assignment to local variable "f".(’¼‘À
+^
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(’¼‘À8’Ï«Œì/
+<
+java:S1481	"&Remove this unused "f" local variable.(’¼‘À
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÊ—ô

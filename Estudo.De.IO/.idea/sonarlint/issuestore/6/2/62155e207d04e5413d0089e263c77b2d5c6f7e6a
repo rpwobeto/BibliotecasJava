@@ -1,0 +1,13 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "bws".(û¨Àšÿÿÿÿÿ8ÕŒ›Œì/
+T
+java:S1854"7Remove this useless assignment to local variable "brs".(¾µ‰‚8õÊ›Œì/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ß€ª
+E
+java:S1481"(Remove this unused "brs" local variable.(¾µ‰‚8ùÊ›Œì/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø­íŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û¨Àšÿÿÿÿÿ
+J
+java:S1481"(Remove this unused "bws" local variable.(û¨Àšÿÿÿÿÿ8İŒ›Œì/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÊ—ô

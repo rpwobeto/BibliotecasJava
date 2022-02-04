@@ -1,0 +1,17 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(‹Éÿ¼
+V	java:S125"<This block of commented-out lines of code should be removed.(ï‹üúÿÿÿÿ
+Q	java:S125c"<This block of commented-out lines of code should be removed.(‹Éÿ¼
+Q	java:S125q"<This block of commented-out lines of code should be removed.(öÔ¾ù
+R	java:S125„"<This block of commented-out lines of code should be removed.(‹Éÿ¼
+R	java:S125¡"<This block of commented-out lines of code should be removed.(ã¹áÜ
+Y	java:S125·"<This block of commented-out lines of code should be removed.(ã¹áÜ8‘²‹†å/
+d
+java:S1128"NRemove this unused import 'com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput'.(ÓÒÒÃ
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8“²‹†å/
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÓÒÒÃ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÔ‘šúÿÿÿÿ
